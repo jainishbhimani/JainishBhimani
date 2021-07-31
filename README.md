@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **dgchudasama18@gmail.com**
+- 📫 How to reach me **jainishbhimani@gmail.com**
 
 - ⚡ Fun fact **I think i am grinding....**
 
