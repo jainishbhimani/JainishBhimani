@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divyarajsinhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyarajsinhr18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyarajsinh-chudasama-a5109b1a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyarajsinh-chudasama-a5109b1a7" height="30" width="40" /></a>
-<a href="https://instagram.com/divyarajsinh__rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyarajsinh__rajput" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/divyarajsinhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyarajsinhr18" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/jainish-bhimani-a77125202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jainish Bhimani" height="30" width="40" /></a>
+<a href="https://instagram.com/jainish_bhimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jainish Bhimani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
