@@ -9,17 +9,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainishbhimani&margin-w=5&margin-h=5&column=7" alt="royalrajput18" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on **Wetune**
+- 🔭 I’m currently working on **Webicard**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Laravel Projects**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **jainishbhimani@gmail.com**
 
-- ⚡ Fun fact **I think i am grinding....**
+- ⚡ Fun fact **I think i am sassy....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
