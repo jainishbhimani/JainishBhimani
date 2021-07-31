@@ -67,6 +67,6 @@
 <!--   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=jainishbhimani&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a> -->
 
-<!-- </details> --> -->
+<!-- </details> --> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
