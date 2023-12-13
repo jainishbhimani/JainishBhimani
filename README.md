@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainishbhimani&margin-w=5&margin-h=5&column=7" alt="royalrajput18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainishbhimani&margin-w=5&margin-h=5&column=7" alt="jainishbhimani" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Webicard**
