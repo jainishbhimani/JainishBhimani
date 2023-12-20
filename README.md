@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainishbhimani&margin-w=5&margin-h=5&column=7" alt="jainishbhimani" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on **Webicard**
+- 🔭 I’m currently working on **Hotel Management System**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **Laravel Projects**
+- 👯 I’m looking to collaborate on **React JS Projects**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Work**
 
 - 📫 How to reach me **jainishbhimani@gmail.com**
 
@@ -39,7 +39,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jainishbhimani's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jainishbhimani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/jainishbhimani/github-readme-stats"><img alt="jainishbhimani's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jainishbhimani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
